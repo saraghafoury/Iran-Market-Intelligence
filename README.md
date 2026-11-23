@@ -45,7 +45,6 @@ In later stages, the platform will incorporate:
 | DARUNO | Daruno |
 | MADAN | Madan |
 | TAVAN | Tavan |
-| ORDINARY | To be verified |
 | AVAND | To be verified |
 
 Note: Official symbols, fund types, and share classes
